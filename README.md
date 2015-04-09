@@ -1,5 +1,6 @@
 # async-examples
-Nodejstr article examples 
+Nodejstr article examples   
+
 Async is a utility module which provides straight-forward, powerful functions
 for working with asynchronous JavaScript. Although originally designed for
 use with [Node.js](http://nodejs.org) and installable via `npm install async`,
